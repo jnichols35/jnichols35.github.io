@@ -1,25 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to My New Website!!!"
 date:   2017-06-14 00:15:39 +0000
-categories: jekyll update
+categories: personal jekyll 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+It's been about a year since I last updated my personal website, so I figured it was time to start fresh. They last one was built with hexo and deployed to AWS. This time around I went the easy route and built it in jekyll and deployed it to github. I was going through the codecademy courses as a refresher and figured, hey why not go ahead and rebuild my site with their [deploy a site][deploy] course. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Since I last built my website I have moved to VScode and have been really trying to focus getting javascript under my belt. I'm hoping to start tackling some React projects soon which I want to host on my site here. 
 
-Jekyll also offers powerful support for code snippets:
+Well I don't want to get too bogged down in promises as that usually leads to me abandon whatever project I was working on. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+So till next time,
+Jake
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[deploy]: https://www.codecademy.com/learn/deploy-a-website
